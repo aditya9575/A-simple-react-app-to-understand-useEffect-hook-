@@ -1,6 +1,6 @@
 # A-simple-react-app-to-understand-useEffect-hook-
 
-To run the app clone the master branch and then go to the file path and run npm run start 
+To run the app clone the master branch and then go to the file path and run command -> npm install  then run command -> npm run start 
 
 STEPS TO UNDERSTAND ----> 
 
